@@ -1,0 +1,11 @@
+/*
+* Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
+*/
+
+div .text {
+    color: rgb(206, 9, 22);
+    background-color: hsl(49, 96%, 49%);
+    font-size: 20px;
+    text-align: center;
+    
+}
